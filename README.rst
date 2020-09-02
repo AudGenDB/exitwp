@@ -1,3 +1,7 @@
+######
+Exitwp - AudGenDB Fork
+######
+
 AudGenDB Alterations
 ====================
 
@@ -6,12 +10,8 @@ This fork of the Exitwp includes the processing of the WordPress site at https:/
 Accordingly, the repo includes the `build` directory with the converted website files.
 
 
-Original README File:
+Original README.rst File
 =====================
-######
-Exitwp
-######
-
 Exitwp is tool for making migration from one or more wordpress blogs to the `jekyll blog engine <https://github.com/mojombo/jekyll/>`_ as easy as possible.
 
 By default it will try to convert as much information as possible from wordpress but can also be told to filter the amount of data it converts.
