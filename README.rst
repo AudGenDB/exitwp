@@ -1,3 +1,13 @@
+AudGenDB Alterations
+====================
+
+This fork of the Exitwp includes the processing of the WordPress site at https://audgendb.chop.edu/, so that it can be archived at https://audgendb.git.io/.
+
+Accordingly, the repo includes the `build` directory with the converted website files.
+
+
+Original README File:
+=====================
 ######
 Exitwp
 ######

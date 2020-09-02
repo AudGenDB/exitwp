@@ -1,4 +1,4 @@
-build/
+# build/ # Remove this so the converted site can upload to AudGenDB GitHub
 *.pyc
 .ropeproject/
 .Python

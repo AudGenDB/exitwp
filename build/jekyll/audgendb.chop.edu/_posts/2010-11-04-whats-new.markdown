@@ -1,0 +1,25 @@
+---
+author: launchdm
+comments: true
+date: 2010-11-04 17:50:29+00:00
+layout: post
+link: http://audgendb.chop.edu/index.php/whats-new/
+slug: whats-new
+title: What's New
+wordpress_id: 53
+categories:
+- Homepage Box3
+---
+
+
+	
+  * **[Major Upgrade to AudGenDB 2.0](http://audgendb.chop.edu/index.php/about/new-features-scheduled/#audgendb2) Performed in June 2015**
+
+
+        
+  * Check out our presentations at upcoming [AMIA](http://www.amia.org/amia2015) and [ARO](http://www.aro.org/?page=MidWinterMeeting) Meetings 
+
+	
+  * [Follow **AudGenDB on Twitter** for News](http://twitter.com/#!/audgendb)
+
+
